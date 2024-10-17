@@ -9,3 +9,4 @@ window.addEventListener('message', function(event) {
         document.getElementById('video').src = ''; 
     }
 });
+--IGNORE THIS ONE USE THE ONE IN THE HTML
